@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aryan</h1>
-## 💫 About Me:
+
+# 💫 About Me:
 I’m currently expanding my expertise in frameworks like React, along with backend development using Next.js and Express.<br><br>👯 Open to collaborating on Web Development Projects<br>🤝 Don’t hesitate to reach out anytime!<br>📫 Contact me at: aryansunilmoon@gmail.com
 
 
