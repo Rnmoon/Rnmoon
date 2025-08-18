@@ -8,7 +8,6 @@
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fluent in both <strong>English</strong> and <strong>Hindi</strong>&nbsp;✔</p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check my links below&nbsp;👇</p>
   📌 <a href="https://aryan-moon.netlify.app">My Portfolio</a>&nbsp;&nbsp;&nbsp;<br />
-  📅 <a href="https://calendly.com/fvukelic/meeting">Schedule a meeting</a>&nbsp;&nbsp;&nbsp;<br/>
   📧 <a href="mailto:aryansunilmoon@gmail.com">Send me an Email</a>&nbsp;&nbsp;&nbsp;<br />
 
   
@@ -31,7 +30,6 @@
     </ul>
     <br /><p><strong>📁 More</strong></p>
     <ul>
-      <li>Wordpress/Divi, React Native/Expo</li>
       <li>Figma, Photoshop, Midjourney, Dall-E</li>
       <li>Vercel, Hostinger, Netlify</li>
       <li>Git, OpenAI API, AI Tools</li>
