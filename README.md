@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>Web Developer</h3>
+  <h3>Full Stack Developer</h3>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proficient in <strong>React</strong> and <strong>Next.js</strong>&nbsp;✔</p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fluent in both <strong>English</strong> and <strong>Hindi</strong>&nbsp;✔</p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check my links below&nbsp;👇</p>
